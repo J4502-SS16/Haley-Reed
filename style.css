@@ -35,3 +35,6 @@ p {
 #nav a:hover, #nav a:active {
   background-color: #7a991a;
 }
+img {
+  border-style: none;
+}
